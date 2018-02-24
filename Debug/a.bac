@@ -1,0 +1,4 @@
+{head{}}
+echo {pow{{1+2},6}}
+echo {pow{{1+2},6}}
+pause
